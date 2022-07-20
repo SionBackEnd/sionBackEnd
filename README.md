@@ -1,6 +1,7 @@
 ### Hi there 👋<br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tldhs0522)](https://solved.ac/tldhs0522/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tldhs0522)](https://solved.ac/tldhs0522)
 <br/><br/>
 개발 블로그 >>> https://velog.io/@zion9948
 <!--
