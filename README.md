@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tldhs0522)](https://solved.ac/tldhs0522)
 <br/><br/>
-개발 블로그 >>> https://velog.io/@zion9948
+[My Velog!!!](https://https://velog.io/@zion9948)
 <!--
 **SionBackEnd/sionBackEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
